@@ -1,0 +1,6 @@
+tqdm
+modal
+scikit-learn
+pandas
+jupyterlab
+altair
